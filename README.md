@@ -36,12 +36,4 @@ I'm always open to discussing new projects, opportunities, or collaborations. Fe
 - **Email:** [qaviinan@gmail.com](mailto:qaviinan@gmail.com)
 - **Phone:** +880 174 866 5229
 
----
-
-## 📈 GitHub Stats
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qaviinan&layout=compact&theme=radical)
-
----
-
-*Passionate about leveraging technology and data to solve real-world problems and drive innovation in the fintech space.*

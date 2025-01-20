@@ -36,4 +36,4 @@ I'm always open to discussing new projects, opportunities, or collaborations. Fe
 - **Email:** [qaviinan@gmail.com](mailto:qaviinan@gmail.com)
 - **Phone:** +880 174 866 5229
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qaviinan&layout=compact&theme=radical&exclude_repo=FinRAG)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qaviinan&layout=compact&theme=radical&hide=JupyterNotebook)

@@ -1,34 +1,13 @@
-# Hi there, I'm Qavi Inan! 👋
+# Qavi Inan
 
-Welcome to my GitHub profile!
+I'm finishing an MS in Economics and Computation at Duke (December 2026). I build and validate models for credit risk, fraud and prediction markets.
 
----
+## Projects
 
-## About Me
+- [mortgage-pd-validation](https://github.com/qaviinan/mortgage-pd-validation): a mortgage default model on Freddie Mac loan data, with a validation report written to current US model risk guidance.
+- [fraudscope](https://github.com/qaviinan/fraudscope): fraud-ring detection on simulated card transactions using graph features, with a [live explorer](https://fraudscope.vercel.app).
+- [polymarket-minority](https://github.com/qaviinan/polymarket-minority): a test of whether a small group of skilled traders drives Polymarket's accuracy, using on-chain trade data.
 
-I'm **Qavi Inan**. I have a strong background in **machine learning**, **data science**, and **quant research**. With a Master's in Economics and extensive experience in both startup and non-profit environments, I can blend advanced statistical methods with robust programming skills to deliver impactful solutions.
+## Contact
 
----
-
-## 🔧 Technical Skills
-
-### **Programming Languages & Technologies**
-- **Languages:** Python, R, SQL, JavaScript, Dart
-- **Machine Learning & AI:** PyTorch, Keras, TensorFlow, Langchain
-- **DevOps & Cloud:** Docker, Jenkins, AWS
-- **Databases:** PostgreSQL, MongoDB, InfluxDB, Redis
-- **Data Analysis & Visualization:** Tableau, Power BI, Stata
-- **Other Tools:** Git, Linux, Spark
-- **Web Technologies:** React, Next.js, Django, Flutter
-
----
-
-## 📫 Get in Touch
-
-I'm always open to discussing new projects, opportunities, or collaborations. Feel free to reach out!
-
-- **LinkedIn:** [linkedin.com/in/qavi-inan](https://www.linkedin.com/in/qavi)
-- **Email:** [qaviinan@gmail.com](mailto:qaviinan@gmail.com)
-- **Phone:** +1 919 428 9824
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qaviinan&layout=compact&theme=radical&hide=Jupyter_Notebook)
+qaviinan@gmail.com

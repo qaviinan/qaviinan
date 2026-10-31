@@ -1,6 +1,6 @@
 # Qavi Inan
 
-I'm finishing an MS in Economics and Computation at Duke (December 2026). I build and validate models for credit risk, fraud and prediction markets.
+I'm finishing an MS in Economics and Computation at Duke (December 2026). I build and validate models for financial use cases.
 
 ## Projects
 
